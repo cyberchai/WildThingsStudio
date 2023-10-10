@@ -781,6 +781,52 @@ h6 {
 }
 
 /*--------------------------------------------------------------
+# Block Spacer Single Section
+--------------------------------------------------------------*/
+
+.block h2, h4 {
+  color: #fff;
+  margin-top: 35px;
+  font-family: var(--font-secondary);
+}
+
+.block p {
+  color: #fff;
+  margin-top: 35px;
+  font-family: var(--font-primary);
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.block a {
+  color: #fff;
+  font-family: var(--font-primary);
+}
+
+/*--------------------------------------------------------------
+# News Block Single Section
+--------------------------------------------------------------*/
+
+/* .news-block h2, h4 {
+  color: #fff;
+  margin-top: 35px;
+  font-family: var(--font-secondary);
+}
+
+.news-block p {
+  color: #fff;
+  margin-top: 25px;
+  font-family: var(--font-primary);
+  margin-left: 15%;
+  margin-right: 15%;
+}
+
+.news-block a {
+  color: #fff;
+  font-family: var(--font-primary);
+} */
+
+/*--------------------------------------------------------------
 # Gallery Single Section
 --------------------------------------------------------------*/
 .gallery-single .portfolio-details-slider img {
